@@ -101,6 +101,7 @@ input[type="submit"]:hover {
 }
 
 .codedBy {
+  margin: 20px;
 }
 #coded-by:hover {
   text-decoration: underline;
